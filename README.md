@@ -29,7 +29,7 @@ To set up the project, follow these steps:
    ```bash
    npm install
    ```
-3. Rename .env.example to .env.
+3. Rename `.env.example` to `.env`.
 4. Start the development server:
    `npm run dev`
 
